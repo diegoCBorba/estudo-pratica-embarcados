@@ -1,3 +1,5 @@
+### [link wokwi](https://wokwi.com/projects/423713477227640833)
+
 ### **Estrutura do Código**
 
 O código está dividido em três partes principais:
